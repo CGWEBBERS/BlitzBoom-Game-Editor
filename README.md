@@ -34,11 +34,8 @@ BlitzBoom is a next-gen 2D game editor designed for speed, simplicity, and creat
 ## 🖼 Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/example1.png" width="700" alt="Editor Screenshot" />
+  <img src="https://private-user-images.githubusercontent.com/187049018/492006650-4ca6380b-9301-487d-a6e9-01cf6efc88dd.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg0NDM5MTUsIm5iZiI6MTc1ODQ0MzYxNSwicGF0aCI6Ii8xODcwNDkwMTgvNDkyMDA2NjUwLTRjYTYzODBiLTkzMDEtNDg3ZC1hNmU5LTAxY2Y2ZWZjODhkZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyMVQwODMzMzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0yNjhjZGNhMTRhOTFmNzg4NGYyZGE4NzAzOGEwOGRmMzFmZjI3ZjA4N2JkMTZiODBmOGNmOGJmMzhkYTYwYmQ2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.yvdPMNsBzfW3manb22NJ7boLzvZATe1UnF6yPvTXUeA" width="700" alt="Editor Screenshot" />
   <p><em>Main editor interface</em></p>
-  
-  <img src="https://github.com/user-attachments/assets/example2.png" width="700" alt="Visual Scripting Screenshot" />
-  <p><em>Visual scripting in action</em></p>
 </div>
 
 ---
