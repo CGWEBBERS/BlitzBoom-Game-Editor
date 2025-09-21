@@ -17,7 +17,7 @@ BlitzBoom is a next-gen 2D game editor designed for speed, simplicity, and creat
 - 🧩 **Visual Scripting** – code with logic blocks, not syntax  
 - 🎨 **Sprite & Animation Tools** – manage assets with ease  
 - 🎮 **Instant Preview** – test changes on the fly  
-- 🚀 **Cross-platform Exports** – package your game anywhere  
+- 🚀 **HTML5 Exports** – package your game to html5  
 
 ---
 
