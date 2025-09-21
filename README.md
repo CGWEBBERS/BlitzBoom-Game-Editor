@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="GHBanner" src="https://github.com/CGWEBBERS/BlitzBoom-Game-Editor/issues/2" />
+  <img width="1200" height="475" alt="BlitzBoom Banner" src="https://private-user-images.githubusercontent.com/187049018/492008269-3ae09ea8-83f0-4dce-b852-30855fae7843.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg0NDUxOTAsIm5iZiI6MTc1ODQ0NDg5MCwicGF0aCI6Ii8xODcwNDkwMTgvNDkyMDA4MjY5LTNhZTA5ZWE4LTgzZjAtNGRjZS1iODUyLTMwODU1ZmFlNzg0My5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyMVQwODU0NTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wZTQ3YTlhNjQwYmE4ZjgwMzQ1NjA2MTdmZmQ5ZjdjNmM3ZjQyMjM2ZTA2N2E2MGM5YTg4NTc5YzhhZDRmMWRjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UTuUXpGwhtZdn6RK_qmz7kxZWgtopwd42_ViJmfrLgs" />
 </div>
 
 # ⚡ BlitzBoom Game Editor
