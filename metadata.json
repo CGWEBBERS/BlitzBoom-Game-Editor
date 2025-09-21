@@ -1,0 +1,5 @@
+{
+  "name": "BlitzBoom Game Engine Last Update V1.12",
+  "description": "A web-based 2D game development suite with a powerful node-based visual scripting system that allows users to create game logic intuitively without writing code. This editor provides a professional, panel-based interface to manage scenes, assets, object properties, and an AI assistant to spark creativity.",
+  "requestFramePermissions": []
+}
