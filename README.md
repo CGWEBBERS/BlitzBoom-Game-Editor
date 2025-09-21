@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1fuCkEBeWwcnKTpNNj1a3hHd0Wpkevmo2
+Run : Blitzboom Game Editor :https://blitzboom-game-engine-last-update-v1-12-992057641660.us-west1.run.app/
 
 ## Run Locally
 
