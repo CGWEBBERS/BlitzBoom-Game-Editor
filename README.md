@@ -7,7 +7,7 @@
 🚀 **Build 2D games faster than ever.**  
 BlitzBoom is a next-gen 2D game editor designed for speed, simplicity, and creativity. Featuring **drag-and-drop editing**, **visual scripting**, and instant game previews, it makes game creation as fun as playing.  
 
-👉 **Try it now:** [Run BlitzBoom Game Editor](https://blitzboom-game-engine-last-update-v1-12-992057641660.us-west1.run.app/)  
+👉 **Try it now:** [Run BlitzBoom Game Editor](https://blitzboom-game-engine-last-update-v1-19-992057641660.us-west1.run.app)  
 
 ---
 
@@ -23,11 +23,7 @@ BlitzBoom is a next-gen 2D game editor designed for speed, simplicity, and creat
 
 ## 📖 Documentation
 
-- [Getting Started Guide](#)  
-- [Visual Scripting Manual](#)  
-- [Advanced Usage & API](#)  
-
-*(Replace `#` with actual links when manuals are ready)*
+-- Coming Soon
 
 ---
 
@@ -48,19 +44,6 @@ BlitzBoom is a next-gen 2D game editor designed for speed, simplicity, and creat
 
 **Prerequisites:** [Node.js](https://nodejs.org/)  
 
-1. Install dependencies:  
-   ```bash
-   npm install
-Set your Gemini API key in .env.local:
-
-ini
-Copy code
-GEMINI_API_KEY=your_api_key_here
-Start the app:
-
-bash
-Copy code
-npm run dev
 🙌 Contributing
 BlitzBoom is an indie passion project. You can help shape it:
 
@@ -73,8 +56,8 @@ BlitzBoom is an indie passion project. You can help shape it:
 💬 Share ideas in discussions
 
 📬 Stay Connected
-🌍 Website: YourWebsiteHere
+🌍 Website: https:blitzboommarketplace.com
 
 🐦 Twitter: @YourHandle
 
-💬 Discord/Community: Join Here
+💬 Discord/Community: Coming Soon
