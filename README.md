@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1200" height="475" alt="BlitzBoom Banner" src="https://github.com/CGWEBBERS/BlitzBoom-Game-Editor/blob/main/Gemini_Generated_Image_l7d0p3l7d0p3l7d0.png" />
+  <img width="1200" height="475" alt="BlitzBoom Banner" src="https://github.com/CGWEBBERS/BlitzBoom-Game-Editor/blob/main/banner.png" />
 </div>
 
 # ⚡ BlitzBoom Game Editor
@@ -30,13 +30,18 @@ BlitzBoom is a next-gen 2D game editor designed for speed, simplicity, and creat
 ## 🖼 Screenshots
 
 <div align="center">
-  <img src="https://private-user-images.githubusercontent.com/187049018/492006651-aec68315-ab0d-4390-b60c-ab636b054ae5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg0NDU4MjUsIm5iZiI6MTc1ODQ0NTUyNSwicGF0aCI6Ii8xODcwNDkwMTgvNDkyMDA2NjUxLWFlYzY4MzE1LWFiMGQtNDM5MC1iNjBjLWFiNjM2YjA1NGFlNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyMVQwOTA1MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hMTlmYmIyNDUwOTUyNjc0ODkxMjBiNmM2YjBjZjFlZDVmODY3YWUyNjFjZGY1M2UwMDNjNGEzNTc0NWY2NGVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ZQMnsPnZdeXZ_pLEwcvMHNepUNGZNQ_FPtxNa8qXxo0" width="700" alt="Editor Screenshot" />
+  <img src="https://github.com/CGWEBBERS/BlitzBoom-Game-Editor/blob/main/Screenshot%202025-09-24%20162120.png" />
   <p><em>Main editor interface</em></p>
 </div>
 </div>
 <div align="center">
-<img src="https://private-user-images.githubusercontent.com/187049018/492009022-4300bbdc-1b68-48c5-91ad-5273399045c6.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTg0NDU4MjUsIm5iZiI6MTc1ODQ0NTUyNSwicGF0aCI6Ii8xODcwNDkwMTgvNDkyMDA5MDIyLTQzMDBiYmRjLTFiNjgtNDhjNS05MWFkLTUyNzMzOTkwNDVjNi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwOTIxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDkyMVQwOTA1MjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00ZDYwOGI5ZTllOTBjNTkxOTVhYzg1ZTI0NWY0ODZhMGIyMzZmNDFhMDA3NWIwOGVkNzdjZGNhY2UwMGQwM2FkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.WKsHoKKxF_WZZeXqkStzsUM7zl2ZgUoX7vL-3LLdFLo" width="700" alt="Editor Screenshot" />
-   <p><em>Game Scene interface</em></p>
+<img src="https://github.com/CGWEBBERS/BlitzBoom-Game-Editor/blob/main/Screenshot%202025-09-24%20162132.png" />
+   <p><em>Animation Editor</em></p>
+</div>
+</div>
+<div align="center">
+<img src="https://github.com/CGWEBBERS/BlitzBoom-Game-Editor/blob/main/Screenshot%202025-09-24%20162148.png" />
+   <p><em>Visual Scripting</em></p>
 </div>
 ---
 
